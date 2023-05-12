@@ -9,7 +9,7 @@ export default function Home() {
     <div class="container" id="home">
         <div class="row mt-5">
             <div class="col-md-6 col-sm-12 orders-1 wow bounceInUp ">
-                <p class="h1 greeting-text fw-bold">Hi all, I'm Hunain
+                <p class="h1 greeting-text fw-bold">Hi all, I'm Muhammad Hunain
                     <img class="wave-emoji img-fluid" alt="👋" draggable="false"
                         src={manOnTable}
                         style={{height: "1em",width: "1em", margin:"0px 0.05em 0px 0.1em",verticalAlign:"-0.1em"}}>
