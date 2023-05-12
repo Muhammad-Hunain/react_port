@@ -10,7 +10,7 @@ import Contact from './componenets/Contact.jsx'
 import Reach from './componenets/reach.jsx'
 import Button_top from './componenets/button_top.jsx'
 import Dark_mode from './componenets/dark_mode.jsx'
-import '../src/css/Portfolio.css'
+import './css/portfolio.css'
 
 
 export default function App() {
